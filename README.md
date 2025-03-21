@@ -3,9 +3,14 @@ Quiz Mania PROJECT
 
 PROJECT MEMBER: HEMASRI PAKALAPATI [Sridevi women's engineering college (swec) ]
 
-Quiz Mania is a fun and interactive web-based quiz application where users can answer multiple-choice questions and see their scores instantly. It’s designed with a clean and colorful interface that makes the quiz experience engaging and easy to use.
+Quiz Mania is a fun and interactive web-based quiz application
 
 The project allows the admin to create, update, or delete quiz questions so the content stays fresh and relevant. Users can attempt the quiz, get immediate feedback if their answer is right or wrong, and view their final score at the end.
+
+HOW TO RUN
+Create a folder named quiz-mania
+Save the three files (index.html, style.css, quiz.js) inside the folder
+Open index.html in your browser
 
 TECHNOLOGIES USED:
 
