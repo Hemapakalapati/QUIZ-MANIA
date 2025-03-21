@@ -1,6 +1,13 @@
 # QUIZ-MANIA
-Quiz Mania is a dynamic web-based quiz application with user scoring, admin question control, and responsive design using HTML, CSS, JavaScript.
+Quiz Mania PROJECT
+
 PROJECT MEMBER: HEMASRI PAKALAPATI [Sridevi women's engineering college (swec) ]
+
+Quiz Mania is a fun and interactive web-based quiz application where users can answer multiple-choice questions and see their scores instantly. It’s designed with a clean and colorful interface that makes the quiz experience engaging and easy to use.
+
+The project allows the admin to create, update, or delete quiz questions so the content stays fresh and relevant. Users can attempt the quiz, get immediate feedback if their answer is right or wrong, and view their final score at the end.
+
+TECHNOLOGIES USED:
 
 HTML5 – For structuring the web pages
 
@@ -29,11 +36,9 @@ results:
 
 ![WhatsApp Image 2025-03-22 at 00 57 29_99762d91](https://github.com/user-attachments/assets/28c7c71e-80d8-4724-8257-fc2f1a80e8c6)
 
-
-Quiz Mania is a fun and interactive web-based quiz application where users can answer multiple-choice questions and see their scores instantly. It’s designed with a clean and colorful interface that makes the quiz experience engaging and easy to use.
-
-The project allows the admin to create, update, or delete quiz questions so the content stays fresh and relevant. Users can attempt the quiz, get immediate feedback if their answer is right or wrong, and view their final score at the end.
-
 Built using HTML, CSS, and JavaScript, the application runs smoothly on both desktop and mobile. It’s simple, responsive, and easy to expand with more questions or features in the future.
 
 Overall, Quiz Mania is a great project to showcase web development skills like designing user-friendly interfaces, handling dynamic content, and writing clean, interactive JavaScript code.
+
+
+
